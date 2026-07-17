@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 REPO_PATH = "."                    # Папка с репозиторием
 MIN_COMMITS = 10
 MAX_COMMITS = 15
-START_DATE = datetime(2025, 10, 26)  # С 1 января 2024
+START_DATE = datetime(2024, 1, 1)  # С 1 января 2024
 # ============================================
 
 os.chdir(REPO_PATH)
